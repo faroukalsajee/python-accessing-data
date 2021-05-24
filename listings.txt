@@ -1,0 +1,34 @@
+R2507956,2242 Grant Street Vancouver BC V5L 2Z7,1699000,5,2,House,13
+R2500627,305-1006 Beach Avenue Vancouver BC V6E 1T7,981000,2,2,Condo,34
+R2512107,680 W 6th Avenue Vancouver BC V5Z 1A3,989000,2,2,Townhouse,1
+R2512000,208-607 E 8th Avenue Vancouver BC V5T 1T2,574900,1,1,Condo,1
+R2511923,2146 W 14th Avenue Vancouver BC V6K 2V7,2248000,3,3,House,31
+R2511301,2638 Charles Street Vancouver BC V5K 3A5,1890000,8,8,House,18
+R2511809,307-2080 E Kent Avenue Vancouver BC V5P 4X2,449000,1,1,Condo,2
+R2511747,1408-1775 Quebec Street Vancouver BC V5T 0E3,679900,1,1,Condo,5
+R2511972,306-7180 Linden Avenue Burnaby BC V5E 3G6,448800,1,1,Condo,30
+R2511059,7760 Berkley Street Burnaby BC V5E 2J7,1150000,2,1,House,20
+R2511262,1106-9222 University Crescent Burnaby BC V5A 0A6,629800,2,2,Condo,4
+R2510818,5190 Fulwell Street Burnaby BC V5G 1P2,1390000,7,4,House,15
+R2510183,5712 Grant Street Burnaby BC V5B 2K4,1698000,3,4,House,18
+R2512071,8154 Gilley Avenue Burnaby BC V5J 4Y5,2488000,9,9,House,1
+R2510573,5059 Norfolk Street Burnaby BC V5G 1E9,1299000,4,4,House,7
+R2512173,11226 236 Street Maple Ridge BC V2W 0C8 ,900000,4,4,House,35
+R2512052,21560 Ashbury Court Maple Ridge BC V2X 8Z7,775000,3,2,House,43
+R2508895,227-12258 224 Street Maple Ridge BC V2X 8Y7,474900,2,2,Condo,12
+R2512451,102 Croteau Court Coquitlam BC V3K 6E2,948000,4,2,House,20
+R2512494,1803-1185 The High Street Coquitlam BC V3B 0A9,968000,3,2,Condo,10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
